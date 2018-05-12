@@ -1,0 +1,38 @@
+_repo: One-of-My-Sons_34710
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34710-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Anna Katharine Green
+    - Rohlfs, Mrs. Charles
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: A young girl frantically summons a gentleman walking by on the street
+  to come in and help her grandfather. Arthur Outhwaite answers her cry for help only
+  to find himself as the last person to see her grandfather alive and left with the
+  admonishment from the dying man to deliver a letter to someone, and to that person
+  only. Unfortunately, he dies before he can inform Outhwaite who that particular
+  person is. Being in a house of strangers, Outhwaite is thrust into the mystery of
+  not only finding this unknown person, but is also faced with the mysterious circumstances
+  under which the c.
+gutenberg_issued: '2010-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: One of My Sons
+url: http://www.gutenberg.org/ebooks/34710
